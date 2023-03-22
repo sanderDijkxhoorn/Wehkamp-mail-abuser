@@ -17,3 +17,6 @@ Wehkamp-mail-abuser is a script that abuses the Wehkamp newsletter API to subscr
 
 ## Disclaimer
 This script is for educational purposes only. Use it at your own risk. The author is not responsible for any misuse or damage caused by this script. It is recommended to use a disposable email address while testing this script.
+
+## License
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for more information.
